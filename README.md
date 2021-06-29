@@ -11,7 +11,7 @@
   </em>
  </p>
  
-<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Medal.gif" width=20 height=20>  I’m currently Working in Tata Consultancy Services
+<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Medal.gif" width=20 height=20>  I’m currently Working as Assistant System Engineer in [Tata Consultancy Services](https://www.tcs.com/)
  
 🌱 I’m currently learning [C++](https://www.cplusplus.com/) and [JAVA](https://www.java.com//)
 
