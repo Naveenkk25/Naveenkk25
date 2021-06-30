@@ -7,13 +7,13 @@
 # <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> About Me
 <p>
   <em>
-     <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=35 height=25> A <b>Self thought</b> and passionate <b>programmer</b> from Karur, India.
+     <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Medal.gif" width=20 height=20>A <b>Self thought</b> and passionate <b>programmer</b> from Karur, India.
   </em>
  </p>
  
-<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Medal.gif" width=20 height=20>  I’m currently Working as Assistant System Engineer in [Tata Consultancy Services](https://www.tcs.com/)
+ <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=35 height=25>  Currently Working as Assistant System Engineer in [Tata Consultancy Services](https://www.tcs.com/)
  
-🌱 I’m currently learning [C++](https://www.cplusplus.com/) and [JAVA](https://www.java.com//)
+🌱 I’m currently learning [UNIX](https://www.unix.com/) and [JAVA](https://www.java.com//)
 
 🔭 Looking for some interesting Open Source projects to work!
  
