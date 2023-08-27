@@ -7,7 +7,7 @@
 # <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> About Me
 <p>
   <em>
-     <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=35 height=25> A <b>Self thought</b> and passionate <b>programmer</b> from Karur, India.
+     <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=35 height=25> A <b>Self thought</b> and passionate <b>programmer</b> from Chennai, India.
   </em>
  </p>
  
