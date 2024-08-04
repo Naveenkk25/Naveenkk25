@@ -13,7 +13,7 @@
  
 <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Medal.gif" width=20 height=20>  I’m currently Working as System Engineer in [Tata Consultancy Services](https://www.tcs.com/)
  
-🌱 I’m currently learning [Flutter Development](https://docs.flutter.dev/)
+🌱 I’m currently learning [Java Development]
 🔭 Looking for some interesting Open Source projects to work!
  
 #### <h1>Catch Me On</h1>
