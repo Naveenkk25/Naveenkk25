@@ -13,8 +13,8 @@
 
 ## 🚀 Skills & Interests
 
-- **Languages:** Python, Java, PL/SQL, C#
-- **Technologies:** .NET, Spring Boot, React
+- **Languages:** Java, PL/SQL, C, C#, Python
+- **Technologies:** .NET, Spring Boot,
 - **Databases:** MySQL, PostgreSQL, Oracle
 - **Other Interests:** Cricket 🏏, Badminton 🏸, Content Creation 🎥
 
