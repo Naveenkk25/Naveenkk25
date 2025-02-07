@@ -1,31 +1,36 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira&color=24292E&size=60&center=true&vCenter=true&width=1000&height=100&lines=Hai,+Welcome!+It's+Naveen😃)](https://git.io/typing-svg)
+# Hi there, I'm Naveen! 👋
 
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=Naveenkk25&label=Profile%20views&color=00968f&style=flat" alt="visitors" />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=009688&width=435&lines=Passionate+Developer;Tech+Enthusiast;Always+Learning+%F0%9F%92%AA" alt="Typing SVG" />
 </p>
 
-# <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> About Me
+## 👨‍💻 About Me
+
+- 💼 **System Engineer** at [Tata Consultancy Services](https://www.tcs.com/)
+- 🌍 Based in **Chennai, India**
+- 🔭 Exploring **Java Development** & Open Source Contributions
+- 📚 Passionate about **Programming, Problem-Solving & Innovation**
+
+## 🚀 Skills & Interests
+
+- **Languages:** Python, Java, PL/SQL, C#
+- **Technologies:** .NET, Spring Boot, React
+- **Databases:** MySQL, PostgreSQL, Oracle
+- **Other Interests:** Cricket 🏏, Badminton 🏸, Content Creation 🎥
+
+## 📫 Connect With Me
+
 <p>
-  <em>
-     <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=35 height=25> A <b>Self thought</b> and passionate <b>programmer</b> from Chennai, India.
-  </em>
- </p>
- 
-<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Medal.gif" width=20 height=20>  I’m currently Working as System Engineer in [Tata Consultancy Services](https://www.tcs.com/)
- 
-🌱 I’m currently learning [Java Development]
-🔭 Looking for some interesting Open Source projects to work!
- 
-#### <h1>Catch Me On</h1>
-
-<p align=''>
   <a href="https://www.linkedin.com/in/naveen-kandasamy-6454a51b8/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>&nbsp;&nbsp;
-    <a href='mailto:naveen.kk2507@gmail.com'>
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-    </a>&nbsp;&nbsp;
- <!-- <a href="https://instagram.com/">
-   <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
-   </a>&nbsp;&nbsp; -->
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href='mailto:naveen.kk2507@gmail.com'>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
 </p>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Naveenkk25&label=Profile%20views&color=00968f&style=flat)
+
+---
+
+⭐️ *Keep learning, keep growing!* 🚀
